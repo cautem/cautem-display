@@ -36,7 +36,11 @@ The [image reference](https://cautem.github.io/sandbox.dev/reference/images/) de
 
 For local development, use the sibling `go.work` workspace and run `go test ./...` here. The existing alpha tag has an older module path; a new tag is needed before standalone `go get` works.
 
-**Requirements:** Go 1.27+. GUI image: `ghcr.io/cautem/cautem/sandboxes/gui`.
+**Requirements:** Go 1.27+. CPU GUI image: `ghcr.io/cautem/cautem/sandboxes/gui`.
+An experimental GUI+GPU image is published as
+`ghcr.io/cautem/cautem/sandboxes/gui-gpu`; use `cautem sandbox create --gpu
+--display novnc` on a Linux NVIDIA host with CDI configured. Driver capabilities
+and image libraries alone do not confirm accelerated rendering.
 
 ---
 
