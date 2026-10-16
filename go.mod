@@ -1,4 +1,4 @@
-module github.com/cautem/cautem-display
+module github.com/cautem/quarshell-display
 
 go 1.27.0
 

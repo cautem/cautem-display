@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cautem/cautem-display"
+	"github.com/cautem/quarshell-display"
 )
 
 // Stack reports the URL for an already-published guest noVNC port.
