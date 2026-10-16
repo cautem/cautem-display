@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [v0.1.7] - 2026-10-16
+
+### Changed
+
+- Publish the module under `github.com/cautem/quarshell-display`; earlier tags keep their original module path.
+- Pin `quarshell-core` to v0.3.1.
+
 ## [v0.1.6] - 2026-10-11
 
 ### Changed
