@@ -1,6 +1,6 @@
 # Roadmap — cautem-display
 
-Status: **v0.1.6** (stable numbered release) · Depends on [cautem-core](https://github.com/cautem/quarshell-core) `v0.1.6`
+Status: **v0.1.7** (release prepared) · Depends on [quarshell-core](https://github.com/cautem/quarshell-core) `v0.3.1`
 
 ## This module
 
