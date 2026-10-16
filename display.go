@@ -11,8 +11,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/cautem/cautem-core"
-	"github.com/cautem/cautem-core/defaults"
+	"github.com/cautem/quarshell-core"
+	"github.com/cautem/quarshell-core/defaults"
 )
 
 // Mode selects how the agent GUI is exposed to the operator.
